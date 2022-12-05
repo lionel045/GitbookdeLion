@@ -35,7 +35,6 @@ Pour ajouter un élément dans notre tableau nous utiliseront <mark style="color
 </strong><strong>montableau.insert("Beure",at:0) // Le beurre sera ajouté a l'index 0 
 </strong><strong>
 </strong>
-
 </code></pre>
 
 <mark style="color:red;"></mark>
