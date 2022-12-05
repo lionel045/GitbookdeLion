@@ -15,4 +15,5 @@
   * [Propriété calculé et propriété privé](poo-swift/propriete-calcule-et-propriete-prive.md)
   * [Propriété observatrice](poo-swift/propriete-observatrice.md)
   * [Propriété Static](poo-swift/propriete-static.md)
+* [Extension](extension.md)
 * [Source pour enrichir les bonnes pratiques](source-pour-enrichir-les-bonnes-pratiques.md)
