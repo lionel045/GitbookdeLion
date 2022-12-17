@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Swift](README.md)
-* [Variable](variable.md)
+* [Variable](variable/README.md)
+  * [Generique](variable/generique.md)
 * [for Loop](for-loop.md)
 * [Operateur Ternaire](operateur-ternaire.md)
 * [structure while](structure-while.md)
